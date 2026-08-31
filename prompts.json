@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "What is HTML?",
+        "response_a": "HTML is the standard markup language used to structure content on web pages.",
+        "response_b": "HTML is a programming language used to create databases."
+    },
+    {
+        "id": 2,
+        "question": "What is CSS used for?",
+        "response_a": "CSS is used to style web pages and control their visual presentation, including layout, colors, fonts, and spacing.",
+        "response_b": "CSS is used to style web pages, but it is mainly responsible for storing information in databases."
+    },
+    {
+        "id": 3,
+        "question": "What is Python?",
+        "response_a": "Python is a high-level programming language known for its readability and broad range of applications.",
+        "response_b": "Python is a programming language that is commonly used for web development, automation, and data analysis, although it is also an operating system."
+    },
+    {
+        "id": 4,
+        "question": "What is a WordPress plugin?",
+        "response_a": "A WordPress plugin is software that extends or adds functionality to a WordPress website.",
+        "response_b": "A WordPress plugin is a theme file that controls the visual design of a WordPress website."
+    },
+    {
+        "id": 5,
+        "question": "What is an API?",
+        "response_a": "An API is a set of rules and interfaces that allows different software applications or services to communicate with each other.",
+        "response_b": "An API is a programming language used exclusively to create websites."
+    }
+]

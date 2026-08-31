@@ -1,0 +1,87 @@
+[
+    {
+        "question": "What is HTML?",
+        "response_a": {
+            "accuracy": 5,
+            "relevance": 5,
+            "completeness": 4,
+            "clarity": 5,
+            "instruction_following": 5
+        },
+        "response_b": {
+            "accuracy": 1,
+            "relevance": 3,
+            "completeness": 2,
+            "clarity": 4,
+            "instruction_following": 5
+        }
+    },
+    {
+        "question": "What is CSS used for?",
+        "response_a": {
+            "accuracy": 5,
+            "relevance": 5,
+            "completeness": 4,
+            "clarity": 5,
+            "instruction_following": 5
+        },
+        "response_b": {
+            "accuracy": 2,
+            "relevance": 3,
+            "completeness": 2,
+            "clarity": 2,
+            "instruction_following": 3
+        }
+    },
+    {
+        "question": "What is Python?",
+        "response_a": {
+            "accuracy": 5,
+            "relevance": 5,
+            "completeness": 3,
+            "clarity": 5,
+            "instruction_following": 5
+        },
+        "response_b": {
+            "accuracy": 2,
+            "relevance": 5,
+            "completeness": 3,
+            "clarity": 4,
+            "instruction_following": 5
+        }
+    },
+    {
+        "question": "What is a WordPress plugin?",
+        "response_a": {
+            "accuracy": 5,
+            "relevance": 5,
+            "completeness": 3,
+            "clarity": 5,
+            "instruction_following": 5
+        },
+        "response_b": {
+            "accuracy": 1,
+            "relevance": 5,
+            "completeness": 1,
+            "clarity": 4,
+            "instruction_following": 5
+        }
+    },
+    {
+        "question": "What is an API?",
+        "response_a": {
+            "accuracy": 5,
+            "relevance": 5,
+            "completeness": 3,
+            "clarity": 5,
+            "instruction_following": 5
+        },
+        "response_b": {
+            "accuracy": 1,
+            "relevance": 3,
+            "completeness": 2,
+            "clarity": 4,
+            "instruction_following": 5
+        }
+    }
+]
