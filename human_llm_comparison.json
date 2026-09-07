@@ -1,0 +1,57 @@
+{
+  "matched_questions": 4,
+  "responses_compared": 8,
+  "exact_score_matches": 2,
+  "agreement_percentage": 25.0,
+  "average_absolute_score_difference": 0.47,
+  "comparisons": [
+    {
+      "question": "What is CSS used for?",
+      "response": "response_a",
+      "llm_score": 4.6,
+      "human_score": 4.8
+    },
+    {
+      "question": "What is CSS used for?",
+      "response": "response_b",
+      "llm_score": 2.2,
+      "human_score": 2.4
+    },
+    {
+      "question": "What is Python?",
+      "response": "response_a",
+      "llm_score": 4.6,
+      "human_score": 4.6
+    },
+    {
+      "question": "What is Python?",
+      "response": "response_b",
+      "llm_score": 2.6,
+      "human_score": 3.8
+    },
+    {
+      "question": "What is a WordPress plugin?",
+      "response": "response_a",
+      "llm_score": 4.8,
+      "human_score": 4.6
+    },
+    {
+      "question": "What is a WordPress plugin?",
+      "response": "response_b",
+      "llm_score": 2.2,
+      "human_score": 3.2
+    },
+    {
+      "question": "What is an API?",
+      "response": "response_a",
+      "llm_score": 4.6,
+      "human_score": 4.6
+    },
+    {
+      "question": "What is an API?",
+      "response": "response_b",
+      "llm_score": 2,
+      "human_score": 3
+    }
+  ]
+}

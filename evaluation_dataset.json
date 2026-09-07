@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is Python?",
+    "response_a": "Python is a high-level programming language known for readability and versatility.",
+    "response_b": "Python is an operating system used to manage computer hardware."
+  },
+  {
+    "id": 2,
+    "question": "What does HTML stand for?",
+    "response_a": "HTML stands for HyperText Markup Language.",
+    "response_b": "HTML stands for High Transfer Machine Language."
+  },
+  {
+    "id": 3,
+    "question": "What is CSS used for?",
+    "response_a": "CSS is used to style and control the presentation of web pages.",
+    "response_b": "CSS is primarily used to store data in a relational database."
+  },
+  {
+    "id": 4,
+    "question": "What is an API?",
+    "response_a": "An API is an interface that allows software systems to communicate with each other.",
+    "response_b": "An API is a type of computer monitor."
+  },
+  {
+    "id": 5,
+    "question": "What is machine learning?",
+    "response_a": "Machine learning is a method where systems learn patterns from data to make predictions or decisions.",
+    "response_b": "Machine learning means manually programming every possible decision into a computer."
+  },
+  {
+    "id": 6,
+    "question": "What is an LLM?",
+    "response_a": "An LLM is a large language model trained on large amounts of text to understand and generate language.",
+    "response_b": "An LLM is a programming language used only for database management."
+  },
+  {
+    "id": 7,
+    "question": "What is Git used for?",
+    "response_a": "Git is a version control system used to track changes in files and collaborate on software projects.",
+    "response_b": "Git is a tool used exclusively to compress image files."
+  },
+  {
+    "id": 8,
+    "question": "What is GitHub?",
+    "response_a": "GitHub is a platform for hosting Git repositories and collaborating on software projects.",
+    "response_b": "GitHub is an operating system based on Linux."
+  },
+  {
+    "id": 9,
+    "question": "What is a database?",
+    "response_a": "A database is an organized collection of data that can be stored, managed, and retrieved.",
+    "response_b": "A database is a programming keyboard."
+  },
+  {
+    "id": 10,
+    "question": "What is SQL?",
+    "response_a": "SQL is a language commonly used to query and manage relational databases.",
+    "response_b": "SQL is a web browser developed for mobile phones."
+  },
+  {
+    "id": 11,
+    "question": "What is WordPress?",
+    "response_a": "WordPress is a content management system used to create and manage websites.",
+    "response_b": "WordPress is a programming language for building operating systems."
+  },
+  {
+    "id": 12,
+    "question": "What is a WordPress plugin?",
+    "response_a": "A WordPress plugin is software that extends or adds functionality to a WordPress website.",
+    "response_b": "A WordPress plugin is a physical hardware component."
+  },
+  {
+    "id": 13,
+    "question": "What is responsive web design?",
+    "response_a": "Responsive web design allows a website layout to adapt to different screen sizes and devices.",
+    "response_b": "Responsive design means a website can only be viewed on desktop computers."
+  },
+  {
+    "id": 14,
+    "question": "What is JavaScript?",
+    "response_a": "JavaScript is a programming language widely used to add interactive behavior to web pages and applications.",
+    "response_b": "JavaScript is a markup language used only to structure web pages."
+  },
+  {
+    "id": 15,
+    "question": "What is JSON?",
+    "response_a": "JSON is a lightweight text format commonly used for exchanging structured data.",
+    "response_b": "JSON is a hardware protocol used to connect monitors."
+  },
+  {
+    "id": 16,
+    "question": "What is a Python function?",
+    "response_a": "A Python function is a reusable block of code that performs a specific task.",
+    "response_b": "A Python function is a type of computer memory."
+  },
+  {
+    "id": 17,
+    "question": "What is a variable in programming?",
+    "response_a": "A variable is a named reference used to store or represent a value.",
+    "response_b": "A variable is always a physical component inside a computer."
+  },
+  {
+    "id": 18,
+    "question": "What is debugging?",
+    "response_a": "Debugging is the process of finding and fixing errors in software.",
+    "response_b": "Debugging is the process of deleting all source code from a program."
+  },
+  {
+    "id": 19,
+    "question": "What is cloud computing?",
+    "response_a": "Cloud computing provides computing resources such as storage and processing over a network, typically the internet.",
+    "response_b": "Cloud computing means storing files only on a local USB drive."
+  },
+  {
+    "id": 20,
+    "question": "What is generative AI?",
+    "response_a": "Generative AI refers to AI systems capable of generating new content such as text, images, audio, or code.",
+    "response_b": "Generative AI is a type of computer cable."
+  },
+  {
+    "id": 21,
+    "question": "What is prompt engineering?",
+    "response_a": "Prompt engineering involves designing and refining instructions given to AI models to obtain useful outputs.",
+    "response_b": "Prompt engineering is the process of physically repairing AI hardware."
+  },
+  {
+    "id": 22,
+    "question": "What is data annotation?",
+    "response_a": "Data annotation is the process of labeling or tagging data so it can be used for tasks such as training or evaluating AI systems.",
+    "response_b": "Data annotation means deleting all labels from a dataset."
+  },
+  {
+    "id": 23,
+    "question": "What is hallucination in an LLM?",
+    "response_a": "An LLM hallucination is an output containing information that is incorrect, fabricated, or unsupported.",
+    "response_b": "An LLM hallucination means the model has physically stopped working."
+  },
+  {
+    "id": 24,
+    "question": "What is accuracy in response evaluation?",
+    "response_a": "Accuracy measures whether a response is factually correct.",
+    "response_b": "Accuracy measures only how colorful a response looks."
+  },
+  {
+    "id": 25,
+    "question": "What is relevance in response evaluation?",
+    "response_a": "Relevance measures how directly a response addresses the question or task.",
+    "response_b": "Relevance measures the font size used in the response."
+  },
+  {
+    "id": 26,
+    "question": "What is instruction following?",
+    "response_a": "Instruction following measures whether a response correctly follows the requirements given in the prompt.",
+    "response_b": "Instruction following means ignoring the user's requirements."
+  },
+  {
+    "id": 27,
+    "question": "Why is human evaluation useful for AI systems?",
+    "response_a": "Human evaluation provides judgments that can help assess the quality and usefulness of AI outputs.",
+    "response_b": "Human evaluation is unnecessary because AI systems are always correct."
+  },
+  {
+    "id": 28,
+    "question": "What is structured output from an LLM?",
+    "response_a": "Structured output means requesting model responses in a predictable format such as JSON with defined fields.",
+    "response_b": "Structured output means asking an LLM to physically organize computer hardware."
+  },
+  {
+    "id": 29,
+    "question": "Why compare AI evaluations with human scores?",
+    "response_a": "Comparing them can help measure how closely automated evaluation aligns with human judgment.",
+    "response_b": "The comparison is only useful for measuring internet speed."
+  },
+  {
+    "id": 30,
+    "question": "What is the purpose of an LLM evaluation system?",
+    "response_a": "An LLM evaluation system assesses AI-generated responses against defined quality criteria.",
+    "response_b": "An LLM evaluation system is designed only to increase a computer's storage capacity."
+  }
+]

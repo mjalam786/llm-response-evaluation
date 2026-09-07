@@ -91,6 +91,39 @@ Each response was independently evaluated by an LLM across five criteria:
 - Clarity
 - Instruction Following
 
+### Human vs. LLM Evaluation
+
+A subset of the evaluation dataset was independently scored by a human
+using the same five criteria. The human scores were compared with the
+automated LLM evaluator.
+
+| Metric | Result |
+|---|---:|
+| Matched questions | 4 |
+| Responses compared | 8 |
+| Exact overall-score agreement | 25% |
+| Average absolute score difference | 0.47 / 5 |
+
+The automated evaluator showed relatively close scores to human judgments
+on average, although exact agreement was limited. For example, some
+responses received identical overall scores from both evaluators, while
+others showed larger differences.
+
+These results suggest that the evaluator can provide a useful automated
+assessment signal, but should not be treated as a replacement for human
+judgment.
+
+### Limitations
+
+- The human-evaluated subset contains only four matched questions.
+- The dataset contains synthetic response pairs rather than naturally
+  occurring model outputs.
+- Exact score agreement was only 25%.
+- Human and LLM judgments can differ, particularly on completeness and
+  subjective quality.
+- A larger and more diverse benchmark would be required for stronger
+  reliability conclusions.
+  
 ### Results
 
 | Metric | Response A | Response B |
